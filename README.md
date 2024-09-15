@@ -81,4 +81,9 @@ In this notebook, an artificial neural network is implemented using the **PyTorc
 ### TensorFlow/Keras Implementation (`ann_tensorflow.ipynb`)
 In this notebook, an artificial neural network is implemented using **TensorFlow/Keras**. Similar to the PyTorch implementation, this model uses two hidden layers with ReLU activations, followed by a Sigmoid activation in the output layer.
 
+### Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
+- GitHub: [tahafaghani](https://github.com/tahafaghani)
 
